@@ -22,10 +22,6 @@ url: https://kangkangkang.github.io
 email: 1650028256@qq.com
 # rss_url: /pages/atom.xml
 
-# avatar头像及Favicon
-avatar: /assets/images/ice.jpg
-favicon: /assets/images/nc.jpg
-
 sass:
   style: compressed
 gems:
