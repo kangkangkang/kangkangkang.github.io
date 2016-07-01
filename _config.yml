@@ -9,17 +9,17 @@ filter: 'category'
 
 # 作者信息
 author: 
-  name: 千里冰封 ice1000
-  email: ice1000kotlin@foxmail.com
-  zhihu: https://www.zhihu.com/people/qian-li-bing-feng-36
-  github: https://github.com/ice1000
-  gitbook: https://www.gitbook.com/@ice1000/dashboard
+  name: kangkangkang or kang
+  email: 1650028256@qq.com
+  
+  github: https://github.com/kangkangkang
+  
 
 # 站点信息
-title: 冰封的时间之域
-description: 千里冰封的时间之域
-url: https://ice1000.github.io
-email: ice1000kotlin@foxmail
+title: 燎原之处
+description: 邪恶的烈火燎原
+url: https://kangkangkang.github.io
+email: 1650028256@qq.com
 # rss_url: /pages/atom.xml
 
 # avatar头像及Favicon
