@@ -4,7 +4,7 @@ title: 燎原之处
 ---
 
 <center>
-    <p><img src="asset/20121021200237_CNzKu.thumb.600_0.jpeg" align="center"></p>
+    <p><img src="assets/20121021200237_CNzKu.thumb.600_0.jpeg" align="center"></p>
 </center>
 I am [kang](https://github.com/kangkangkang)，in Chinese is 邪恶的烈火燎原。
 
